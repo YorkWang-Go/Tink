@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" serverName="Tink" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="Tink">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/yankang/Tink" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/Tink/Tink" local="$PROJECT_DIR$" web="/" />
           </mappings>
           <excludedPaths>
             <excludedPath path="/home/yankang/Tink/Tink/DeepSDF_OakInk/data" />

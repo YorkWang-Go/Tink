@@ -10,7 +10,7 @@ sys.path.append("./DeepSDF_OakInk")
 import DeepSDF_OakInk.deep_sdf.workspace as ws
 import numpy as np
 import torch
-from DeepSDF_OakInk.deep_sdf.mesh import create_mesh
+from .DeepSDF_OakInk.deep_sdf.mesh import create_mesh
 from tqdm import tqdm
 from termcolor import cprint
 

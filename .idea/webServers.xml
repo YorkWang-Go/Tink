@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cb595201-92ae-4127-bdda-bb1aeae42169" name="Tink">
+        <fileTransfer rootFolder="/home/yankang" accessType="SFTP" host="222.200.185.32" port="80" sshConfigId="495b5b44-c77b-4341-8d13-8acf691fc5b4" sshConfig="yankang@222.200.185.32:80 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
